@@ -373,6 +373,18 @@ The width calculator measures text accurately by checking each character's displ
 
 ---
 
+## Contact
+
+**Jesse Vogeler-Wunsch** @ PNGN-Tec LLC
+
+Reach me on Discord: **@DaSettingsPNGN**
+
+Part of the PNGN performance systems suite for resource-constrained environments.
+
+---
+
+*Built on a phone. Optimized for mobile-first performance.*
+
 ## License
 
 MIT License. See LICENSE file.
