@@ -17,6 +17,16 @@ The renderer uses a deterministic animation system where the same content produc
 
 ---
 
+## Examples
+
+Three team themes with loading animation:
+
+| PNGN (Purple) | KLLR (Pink) | SHMA (Green) |
+|---------------|-------------|--------------|
+| ![PNGN](examples/pngn_loading.gif) | ![KLLR](examples/kllr_loading.gif) | ![SHMA](examples/shma_loading.gif) |
+
+Each theme features unique colors and visual styling optimized for Discord display.
+
 ## Installation
 
 Install Python dependencies:
