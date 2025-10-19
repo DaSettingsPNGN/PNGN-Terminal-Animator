@@ -1,7 +1,8 @@
 __pycache__/
 *.pyc
-*.gif
-*.png
-*.mp4
-.cache/
 *.db
+.cache/
+
+# Ignore all GIFs except in examples folder
+*.gif
+!examples/*.gif
